@@ -35,10 +35,7 @@ Este sistema permite que clientes façam seus pedidos diretamente de seus dispos
 ---
 
 ## 🛠️ **Tecnologias Utilizadas**  
-- Backend: [definir tecnologias backend utilizadas, como flask]  
-- Banco de Dados: [-]  
-- Frontend: [[definir tecnologias frontend utilizadas, como angular]  
-- QR Code: [libs]  
+em desenvolvimento. 
 
 ---
 
